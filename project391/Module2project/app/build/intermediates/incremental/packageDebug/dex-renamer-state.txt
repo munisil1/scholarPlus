@@ -1,0 +1,7 @@
+#Sun Mar 12 17:24:35 PDT 2017
+base.0=C\:\\Users\\Hassen\\Documents\\Sirine\\CPEN391\\Module2\\project391\\Module2project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e119d871b92b6d2dedcd2a3b059ff3322cdfe086
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Hassen\\Documents\\Sirine\\CPEN391\\Module2\\project391\\Module2project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b2dac9dde017b2e324c9a3a9855cdddfdb7422bb\\classes.dex
+base.1=C\:\\Users\\Hassen\\Documents\\Sirine\\CPEN391\\Module2\\project391\\Module2project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b2dac9dde017b2e324c9a3a9855cdddfdb7422bb
+file.0=C\:\\Users\\Hassen\\Documents\\Sirine\\CPEN391\\Module2\\project391\\Module2project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e119d871b92b6d2dedcd2a3b059ff3322cdfe086\\classes.dex
